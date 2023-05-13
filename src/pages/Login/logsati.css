@@ -1,0 +1,304 @@
+
+
+
+
+.imagelogo{
+    height: 80px;
+    width: 290px;
+    object-fit: contain;
+}
+.marginn{
+    margin-left: 3rem !important;
+}
+
+.navbar-brand1{
+    /* margin:  0px 13px 0px 13px !important; */
+    /* padding: 0px 13px; */
+}   
+.succees-message{
+  color: rgb(7, 139, 7);
+}
+
+
+.error{
+  color: red;
+}
+.navbar-brand1:hover{
+
+    cursor: pointer;
+    color: #FFBC53  !important;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 0.4 0.5 0.3;
+    grid-template-rows: 100px 300px;
+    grid-gap: 10px;
+  }
+
+
+  .grid-container > div {
+    text-align: center;
+   
+  }
+  
+  .locontainer{
+ 
+    display: grid;
+    grid-template-columns: 50% auto !important;
+  }
+
+
+  .marlefor{
+    margin-left: 1rem !important;
+  }
+
+
+
+  
+  
+  .impor1{
+    
+    display: flex;
+    flex-direction: row;
+  }
+  .locontex{
+    height: 80vh;
+  
+  }   
+  .textalign {
+    height: 420px!important;
+    width: 55vw !important;
+    object-fit: contain!important;
+    margin-top: 4rem !important;
+}
+
+
+
+  
+  .locontex1{
+    padding: 19px !important;
+    display: flex;
+    justify-content: center;
+   
+  }
+
+  /* .cards11{
+    width: 30rem;
+  } */
+
+  .title11{
+    font-size: 1.5rem !important;
+    display: flex;
+    justify-content: center !important;
+    font-weight: 579;
+    margin-left: 1rem;
+  }
+
+
+
+  .field-icon {
+    float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .container{
+    padding-top:50px;
+    margin: auto;
+  }  
+
+  
+
+  .textpera{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 11px !important;
+    color: gray;
+  }
+  
+  .textcolort{
+    color: #00828f  !important;
+  }
+  .textcolort:hover{
+  text-decoration: underline;
+
+    color: #FFBC53 !important;
+
+  }     
+  .havregster{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start !important;
+    margin-left: 14px;
+  }     
+  
+
+
+  .form-control11{
+    width: auto  !important;
+    float: right;
+    margin: -3rem 0px 0px 0px !important;
+  }
+  .navbarrr {
+    background-color: #56bdd4;
+    height: 65px   !important;
+    
+    
+
+    padding: 0px !important
+    
+  };
+  .textpera11{
+display: flex;
+justify-content: center !important;
+  }
+  
+
+.form-row11{
+
+  margin-top: 2rem !important;
+}
+
+.navbar-brand1{
+  font-family: revert   !important;
+  font-size: 15px !important;
+  font-weight: 300 !important;
+  padding: 0px 10px  !important;
+  
+}    
+
+  
+@media screen and (max-width: 573px) {
+  .locontex {
+   display: none;
+  }
+
+  .locontex1{
+    display: flex;
+ 
+    justify-content: center !important;
+  }
+  .locontainer {
+    display: grid;
+    grid-template-columns: 100%  !important;
+}   
+}
+
+@media screen and (max-width: 768px) {
+  .title11 {
+    
+    font-size: 1.1rem !important;
+}
+}
+
+
+@media screen and (max-width: 1024px) {
+
+  .sidebar-menu li.active > a {    
+    background-color: #9f5f5f;
+      color: #18aefa;
+      position: relative;
+      margin: 0px 7px;
+      border-radius: 1rem !important;
+      padding-left: 10px;}
+
+  
+
+}
+.btn-outline-warning1:hover{
+  color: white  !important;
+}
+
+
+.imageunhe{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.hedundeimag{
+ 
+  font-weight: 600;
+}  .nav-link {   color: white !important;
+}     
+
+.fa-fw {
+  
+  width: 2.25em !important;
+}
+.error-message{
+  color: red;
+}
+.btn-outline-warning {
+  color: #00828f !important;
+  border-color: #00828f  !important;
+}   
+.menu-title11{
+  color: white   !important;
+  font-size: 16px !important;
+}
+
+.boxbutt{
+  margin: 3.5rem 0px 0px 0px ;
+}
+
+
+.googlesin{
+  height: 1.8rem;
+  width: fit-content;
+  padding: 1px;
+  /* color: white;
+  background-color: #0e6af0; */
+  color: white;
+  background-color: #4286f2;
+  box-shadow: 0px 1px 1px 0px rgb(159, 150, 150);
+ 
+  margin-top: -2px;
+  width: 11rem;
+  font-size: 13px;
+  
+}   .imageofgoogle{
+  height: 1.7rem;
+  width: auto;
+  object-fit: contain;
+}
+
+.googlemain{
+  display: flex;
+  flex-direction: row !important;
+  gap: 20px;
+  
+}
+
+
+.googlesin :hover{
+
+  scale: 1.2 !important;
+}
+
+
+.spansi{
+  margin-right: 8px;
+
+}
+.google{
+  display: flex;
+  align-items: center;
+  justify-content: center;       
+  margin-top: -1.2rem;
+
+}
+.havregster{
+  margin: 1rem 0px 0px 0px;
+}
+.paddfr{
+  margin-bottom: 2rem !important;
+}
+

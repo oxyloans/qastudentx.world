@@ -1,0 +1,153 @@
+
+
+
+.maiconte11{
+    height: auto !important;
+    border-radius: 20px !important;
+}
+
+.grid-container1 {
+    display: grid;
+    grid-template-columns: 25% 75%;
+   
+
+  }
+
+  .clacolorpersent{
+    width: 100%;
+    height: auto !important;
+    background-color: white;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .colocombi{
+    width: 100%;  
+    height: auto;
+    background-color: white;
+    padding: 15px 5px;
+  }
+
+
+  .centerastrali{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 19px;
+    font-family: sans-serif;
+    font-weight: 600;
+    flex-wrap: wrap;
+    text-align: center;
+
+  }
+
+.divbadyy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+  .divbad11{
+    display: flex;
+    /* justify-content: end; */
+    flex-direction: row;
+    gap: 10px;justify-content: end;
+  }
+
+  .box{
+    height: auto;
+    width: auto;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #515b6366;
+    border-radius: 0.4rem;
+  }
+
+  .box1{
+
+    color: red;
+    cursor: pointer;
+
+  }
+  .box2{
+    background-color: #0dcaf0;
+    color: white;
+    cursor: pointer;
+  }
+
+
+  .box11{
+    cursor: pointer;
+  }
+  .loctcall{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  
+  
+  .spantex11{
+      display: flex;
+      flex-direction: row;
+      gap: 4px;
+
+
+
+      font-size: 13px;
+      color: white;
+  }
+
+
+  .spanntex1{
+    height: auto;
+    border-radius: 5px;
+    padding: 3px 6px;
+    background-color: #0dcaf0;
+  }
+  .spanntex2{
+    height: auto;
+    border-radius: 5px;
+    padding: 3px 6px;
+    background-color: #0dcaf0;
+  }
+
+ 
+  .boxbuttom11{
+    margin-top: 15px;
+  }
+
+  .card111{
+    display: flex;
+    flex-direction: row  !important;
+    padding: 10px !important;
+    background-color: whitesmoke;
+   
+  }
+
+  .card-body11{
+    padding: 10px 0px !important;
+    font-size: 13px;
+    color: gray;
+    font-weight: 560;
+    
+  
+  }
+
+
+  .caposs{
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+    color: black;
+    padding: 10px 0px;
+   
+  }
+
+  .cardpa{
+    padding-bottom: 8px !important;
+  }

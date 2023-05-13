@@ -1,0 +1,32 @@
+
+
+
+
+.carousel-item2{
+    display: flex !important;
+    text-align: center !important;
+}
+
+.mainboxxx{
+    width: 100%;   
+}
+
+
+
+.carousel-inner{
+    background-color: var(--bs-teal);
+
+padding: 10px;
+color: white;
+}
+
+.carousel-item{
+   
+    text-align: center !important;
+}
+
+.carousel-indicators li {
+    width: 0px !important;
+}
+
+

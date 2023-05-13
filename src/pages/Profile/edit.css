@@ -1,0 +1,23 @@
+.btn-primary{
+	margin-right: 2rem !important;
+}
+
+
+.succebox{
+	height: auto;
+	width: max-content;    
+	background: linear-gradient(to right, #56ab2f , #a8e063);;
+	color: white;
+	padding: 3px;
+	font-family: 'Urbanist', sans-serif;
+
+}
+
+.ebox{
+	height: auto;
+	width: max-content;    
+	background: red;
+	color: white;
+	font-family: 'Urbanist', sans-serif;
+	padding: 3px;
+}

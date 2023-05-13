@@ -1,0 +1,28 @@
+
+.mainradio{
+    display: flex;
+    flex-direction: row;
+}
+.form-check1{
+          
+    margin: 0px 19px 0px 0px !important;
+}
+
+
+
+.form-control1{
+    border: 1px solid lightgray !important;
+}
+/* .bi-search1 {
+    position: absolute;
+    top: 1rem !important;
+
+} */        
+
+.invatestude1{
+    margin-top: -1.2rem !important;
+}        
+.divone{
+    display: flex;
+    flex-direction: row;
+}

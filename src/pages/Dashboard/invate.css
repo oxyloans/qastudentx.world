@@ -1,0 +1,38 @@
+
+
+
+.disdate1{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+   
+    
+}
+
+
+.getstay{
+	display: flex !important;
+	flex-direction: row  !important;
+     gap: 10px   !important;
+	 justify-content: space-between  !important;
+     
+
+}
+.butto{
+    display: flex !important;
+    flex-direction: column !important;    
+    width: 9rem !important;
+    margin-top: 2rem   !important;
+}
+
+
+
+@media screen and (max-width: 580px) {
+    .getstay{
+        display: flex !important;
+        flex-direction: row  !important;
+        flex-wrap: wrap;
+         
+    
+    }
+  }

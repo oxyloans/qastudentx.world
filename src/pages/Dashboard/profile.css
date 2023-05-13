@@ -1,0 +1,230 @@
+.imagedata11{
+    height: 8.5rem !important;
+    width: 8.5rem !important;
+    background-color: #d6d6d6 !important;
+    margin-top: -1rem ;
+   
+}
+.imagedata1{
+    height: 5rem !important;
+    width: 5rem !important;  
+     margin-top: -3rem;
+}
+
+
+.textmau{
+    margin:1rem 0px 10px 4px; font-weight: 600 ;
+    
+}
+.textmau1{
+    color: #56bdd4;
+    margin:0rem 0px 10px 0px !important; font-weight: 600 ;
+    
+}
+
+/* .fa-phone{
+    color: #56bdd4;
+} */
+
+
+.nav-link11 {
+   
+    color: black !important ;
+}
+
+/* .fa-envelope{
+    color: #56bdb4;
+} */
+
+
+.nav-link11:hover {
+   
+    color: #56bdd4 !important ;
+}
+.nav-link.active{
+    
+    background-color: #56bdd4  !important;
+    color: white !important;
+    
+}
+.buttontag{
+    display: flex;
+
+    
+    flex-direction: row;
+    align-items: center !important;
+    gap: 11px;
+}
+.idbutton{
+
+
+    /* background-color: #25cf94;
+    display: inline-block;
+    padding: 3px 10px;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: normal;
+    border-radius: 5px;
+    margin: 0 10px 0 15px;
+    min-width: 125px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+    height: auto;
+    width: auto;
+    padding: 5px 8px;
+    border-radius: 5px;
+    background-color: #FFBC53;
+    text-align: center;
+    color: white;
+}  
+.spantex{
+    font-size: 14px !important;
+    font-family: sans-serif;
+
+   
+}
+.hrtags{
+    margin: 20px 0px 19px 0px !important;
+    display: block;
+    width: 90% !important;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+
+.idbutton11{
+    height: auto;
+    width: auto;
+    padding: 5px 8px;
+    border-radius: 5px;
+    background-color: rgb(0 160 193);
+    text-align: center;
+    color: white;
+}
+@media screen and (min-width: 760px) {
+    .profile-header img {       
+
+        margin: -9rem 0px 0px 1px !important;
+    }
+  }
+
+
+@media screen and (max-width: 520px) {
+    .buttontag {
+        display: flex;
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 6px;
+    }
+
+ 
+  }
+
+
+
+.spandata{
+    /* height: auto;
+    width: auto;
+    padding: 5px 8px;
+    border-radius: 5px;
+    background:  #56ab2f  ;    
+    color: white;
+    position: absolute;
+    right: 1rem;
+    top: -0.7rem; */
+
+    height: auto;
+    width: fit-content;
+    padding: 5px 8px;
+    border-radius: 5px;
+    background: #56ab2f;
+    color: white
+}
+
+
+
+.leftdata{
+    margin-left:  0px !important;
+}
+.spandata:hover{
+    background-color: rgb(219, 22, 22);
+}
+.car11{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fa-file{
+    height: 2rem;
+    width: 2rem;
+}
+.spadata{margin-left: 4px; margin-right: 4px;
+    font-size: 15px;
+    color: #585d62;
+    font-family: sans-serif;
+}    
+.disf1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row !important;
+}
+
+
+.textlevfont{
+    font-size: 14px;
+    margin: 3px 0px;
+    color: gray;
+    font-family: sans-serif;
+}
+
+
+.card-body1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center !important;
+}
+.infont{
+    font-size: 14px !important;
+}
+
+.mards{
+    margin-left: 2rem !important;
+}
+
+.pencil1{    
+
+      
+     font-size: 22px;
+    color: #FFBC53;
+}
+
+
+
+@media screen and (max-width: 579px) {
+    .spandata{
+  
+        position: unset !important;
+  
+    }
+
+ 
+  }
+
+  .suceess{    
+    text-transform: uppercase;
+    color: green;
+  }
+  .error{
+    color: rgb(225, 21, 21);
+  }
+
